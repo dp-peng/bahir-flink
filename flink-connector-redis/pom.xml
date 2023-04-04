@@ -28,7 +28,7 @@ under the License.
         <relativePath>..</relativePath>
     </parent>
 
-    <artifactId>flink-connector-redis_2.11</artifactId>
+    <artifactId>flink-connector-redis_2.12</artifactId>
     <packaging>jar</packaging>
 
     <name>flink-connector-redis</name>
